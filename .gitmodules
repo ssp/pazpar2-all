@@ -1,0 +1,9 @@
+[submodule "typo3-pazpar2"]
+	path = typo3-pazpar2
+	url = git://github.com/ssp/typo3-pazpar2.git
+[submodule "settings-SUB"]
+	path = settings-SUB
+	url = https://github.com/ssp/pazpar2-SUB
+[submodule "pazpar2-access"]
+	path = pazpar2-access
+	url = https://github.com/ssp/pazpar2-access
