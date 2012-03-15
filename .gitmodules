@@ -3,7 +3,10 @@
 	url = git://github.com/ssp/typo3-pazpar2.git
 [submodule "settings-SUB"]
 	path = settings-SUB
-	url = https://github.com/ssp/pazpar2-SUB
+	url = git://github.com/ssp/pazpar2-SUB
 [submodule "pazpar2-access"]
 	path = pazpar2-access
-	url = https://github.com/ssp/pazpar2-access
+	url = git://github.com/ssp/pazpar2-access
+[submodule "opac-2-atom"]
+	path = opac-2-atom
+	url = git://github.com/ssp/Opac-2-Atom.git
